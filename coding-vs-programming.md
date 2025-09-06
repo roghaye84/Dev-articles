@@ -1,7 +1,7 @@
 Many beginners often think coding and programming are the same. While they are closely related, they represent different levels of working with computers. Understanding this distinction early can significantly impact your learning journey and career growth.
 
 
-##What is Coding?
+##**What is Coding?**
 
 Coding refers to writing instructions that a computer can directly execute. It focuses on translating ideas into a specific programming language such as Python, Java, or JavaScript.
 
@@ -15,7 +15,7 @@ Coding is essentially the act of communication between humans and computers—tu
 
 
 
-##What is Programming?
+##**What is Programming?**
 
 Programming goes beyond just writing code. It involves:
 
@@ -33,7 +33,7 @@ For instance, building a weather app that shows forecasts, handles user input, a
 
 
 
-##Conclusion
+##**Conclusion**
 
 Every programmer codes, but not every coder programs.
 
