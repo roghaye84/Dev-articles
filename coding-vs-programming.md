@@ -19,15 +19,15 @@ Coding is essentially the act of communication between humans and computers—tu
 
 Programming goes beyond just writing code. It involves:
 
-Understanding the problem
+● Understanding the problem
 
-Designing a solution
+● Designing a solution
 
-Planning and organizing steps
+● Planning and organizing steps
 
-Handling edge cases and errors
+● Handling edge cases and errors
 
-Writing the code and testing the final system
+● Writing the code and testing the final system
 
 For instance, building a weather app that shows forecasts, handles user input, and updates data dynamically is programming. It requires not only coding but also problem-solving, system design, and continuous improvement.
 
