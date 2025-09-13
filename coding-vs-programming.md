@@ -19,7 +19,7 @@ Coding is essentially the act of communication between humans and computers—tu
 
 Programming goes beyond just writing code. It involves:
 
-● Understanding the problem
++● Understanding the problem
 
 ● Designing a solution
 
