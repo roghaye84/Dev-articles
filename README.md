@@ -1,13 +1,13 @@
 # Dev Articles
 
 A curated collection of programming and development articles written by me.  
-This repository contains a large number of articles covering a wide range of topics for developers at all levels.
+This repository contains a large number of articles covering a wide range of topics for developers of all levels, including beginners.
 
 ---
 
 ## 🌟 Overview
 
-This repository is a growing library of articles designed to help developers learn, practice, and improve their skills.  
+This repository is a growing library of articles designed to help developers learn, practice, and improve their skills, even if they are just starting out.  
 From beginner-friendly tutorials to practical coding examples, it provides a variety of resources for anyone interested in web development.
 
 ---
@@ -25,7 +25,7 @@ From beginner-friendly tutorials to practical coding examples, it provides a var
 
 This repository contains many articles, each providing practical knowledge and guidance for developers:  
 
-- Tutorials and explanations for different skill levels  
+- Tutorials and explanations suitable for beginners and intermediate learners  
 - Step-by-step examples and coding projects  
 - A wide variety of topics to explore  
 
