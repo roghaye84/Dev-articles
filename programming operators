@@ -1,0 +1,55 @@
+Imagine you are using a calculator.
+You press buttons like +, -, *, /.
+These buttons are called operators in programming!
+
+Operators help the computer do things like:
+
+1)Add numbers
+
+2)Compare values
+
+3)Make decisions
+
+##Arithmetic Operators (Math)
+
+
++ adds things (5+ 1= 6)
+
+- removes (8- 5 = 3)
+
+ * doubles/triples (3 * 4= 12)
+
+/ divided (6 / 2 = 3).
+
+##Comparison Operators (Check)
+
+These operators ask a question and answer with True or False.
+
+
+== Are they the same? (3 == 3 → True)
+
+ != Are they different? (5 != 3 → True)
+
+> Is left bigger? (6 > 2 → True)
+
+< Is left smaller? (5 < 8 → True).
+
+
+##Logical Operators (And / Or / Not)
+These are used to combine conditions:
+
+and  both must be true (5 > 2 and 3 > 1 → True)
+
+or  one is enough (5 > 10 or 2 > 1 → True)
+
+ not   flips it! (not False → True)
+
+ ##Conclusion
+Operators are like helpers in programming.
+They calculate, check, and control what happens in the code.
+
+If you know operators, you are one big step closer to becoming a programmer!✌🏻🔥
+
+
+
+
