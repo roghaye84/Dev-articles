@@ -1,0 +1,39 @@
+##I Built a Responsive Landing Page Without Any Frameworks
+
+One of the most common mistakes junior front-end developers make is thinking they need to learn everything before starting a project.
+
+I used to have the same mindset. I kept learning and watching tutorials, but I was always waiting for the "right time" to build something.
+
+After a while, I realized that I didn't need to know everything to start. The best way to learn was by building real projects.
+
+So, I created a responsive fast-food landing page without using any frameworks. That project became the real starting point of my journey.
+
+The landing page was built using only HTML, CSS, and JavaScript—no frameworks, no libraries.
+
+It's a single-page website that focuses on presenting the content clearly while keeping the design clean and responsive.
+
+The page includes:
+
+A hero section
+A menu section
+A gallery
+Customer reviews
+An order form
+I used Flexbox to build and organize most of the layout, especially the food cards.
+
+The biggest challenge was the order form. Since I didn't know any backend development yet, I couldn't connect the form to a server.
+
+Instead of giving up, I created a Telegram bot and connected the form to it, so every submitted order is sent directly to Telegram.
+
+Looking back, I think that was a creative solution with the knowledge I had at the time.
+
+This project taught me an important lesson: you don't need to know everything before you start. Building projects is one of the fastest ways to improve your skills, discover what you don't know, and gain real experience.
+
+Project Links
+🌐 Live Demo:
+https://fast-food-page.netlify.app/
+
+💻 GitHub Repository:
+https://github.com/roghayem/fastfood-landing-page
+
+I'd love to hear your feedback. If you have any suggestions for improving the design or the code, feel free to leave a comment.
